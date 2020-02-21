@@ -1,0 +1,24 @@
+C:\Users\cristiano\Desktop\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\bin\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.deps.json
+C:\Users\cristiano\Desktop\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\bin\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.dll
+C:\Users\cristiano\Desktop\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\obj\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.csprojAssemblyReference.cache
+C:\Users\cristiano\Desktop\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\obj\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cristiano\Desktop\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\obj\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.AssemblyInfo.cs
+C:\Users\cristiano\Desktop\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\bin\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.pdb
+C:\Users\cristiano\Desktop\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\bin\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Domain.dll
+C:\Users\cristiano\Desktop\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\bin\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Domain.pdb
+C:\Users\cristiano\Desktop\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\obj\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.csproj.CopyComplete
+C:\Users\cristiano\Desktop\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\obj\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.dll
+C:\Users\cristiano\Desktop\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\obj\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.pdb
+D:\Area de trabalho\CSharp\Projetos Programação Web\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\bin\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.deps.json
+D:\Area de trabalho\CSharp\Projetos Programação Web\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\bin\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.runtimeconfig.json
+D:\Area de trabalho\CSharp\Projetos Programação Web\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\bin\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.runtimeconfig.dev.json
+D:\Area de trabalho\CSharp\Projetos Programação Web\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\bin\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.dll
+D:\Area de trabalho\CSharp\Projetos Programação Web\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\bin\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.pdb
+D:\Area de trabalho\CSharp\Projetos Programação Web\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\bin\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Domain.dll
+D:\Area de trabalho\CSharp\Projetos Programação Web\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\bin\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Domain.pdb
+D:\Area de trabalho\CSharp\Projetos Programação Web\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\obj\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.csprojAssemblyReference.cache
+D:\Area de trabalho\CSharp\Projetos Programação Web\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\obj\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.AssemblyInfoInputs.cache
+D:\Area de trabalho\CSharp\Projetos Programação Web\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\obj\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.AssemblyInfo.cs
+D:\Area de trabalho\CSharp\Projetos Programação Web\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\obj\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.csproj.CopyComplete
+D:\Area de trabalho\CSharp\Projetos Programação Web\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\obj\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.dll
+D:\Area de trabalho\CSharp\Projetos Programação Web\Unit.ProjetoCodeFirst.Clinica\Src\Unit.ProjetoCodeFirst.Clinica.Infrastructure\obj\Debug\netcoreapp3.1\Unit.ProjetoCodeFirst.Clinica.Infrastructure.pdb
