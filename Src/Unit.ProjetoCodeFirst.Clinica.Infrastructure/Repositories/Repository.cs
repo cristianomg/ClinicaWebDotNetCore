@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,7 +15,7 @@ namespace Unit.ProjetoCodeFirst.Clinica.Infrastructure.Repositories
         where TEntity : Entity
     {
         private readonly ClinicaDbContext _db;
-        private DbSet<TEntity> _dbSet;
+        private readonly DbSet<TEntity> _dbSet;
         public Repository(ClinicaDbContext dbContext)
         {
             _db = dbContext;
@@ -31,31 +32,61 @@ namespace Unit.ProjetoCodeFirst.Clinica.Infrastructure.Repositories
             _dbSet.Remove(entity);
         }
 
-        public TEntity Inserir(TEntity entity)
+        public void Inserir(TEntity entity)
         {
-
-            return null;
+            _dbSet.Add(entity);
         }
 
-        public ICollection<TEntity> ObterPor(Expression<Func<TEntity, bool>> predicate)
+        public IQueryable<TEntity> ObterPor(Expression<Func<TEntity, bool>> predicate)
         {
-            return null;
+            return _dbSet.Where(predicate);
+        }
+
+        public IQueryable<TEntity> ObterPorComInclude(Expression<Func<TEntity, bool>> predicate, string[] includes)
+        {
+            var result = _dbSet.Where(predicate);
+
+            foreach (var include in includes)
+            {
+                result.Include(include);
+            }
+            return result;
         }
 
         public TEntity ObterPorId(int id)
         {
-            throw new NotImplementedException();
+            return _dbSet.Find(id);
         }
 
-        public ICollection<TEntity> ObterTodos()
+        public IQueryable<TEntity> ObterTodos()
         {
-            throw new NotImplementedException();
-
+            return _dbSet;
         }
 
-        public ICollection<TEntity> ObterTodosPaginado(int skip, int take)
+        public IQueryable<TEntity> ObterTodosComInclude(string[] includes)
         {
-            throw new NotImplementedException();
+            var result = _dbSet;
+            foreach(var include in includes)
+            {
+                result.Include(include);
+            }
+            return result;
+        }
+
+        public IQueryable<TEntity> ObterTodosPaginado(int skip, int take)
+        {
+            return _dbSet.Skip(skip).Take(take);
+        }
+
+        public IQueryable<TEntity> ObterTodosPaginadoComInclude(int skip, int take, string[] includes)
+        {
+            var result = _dbSet.Skip(skip).Take(take);
+            foreach (var include in includes)
+            {
+                result.Include(include);
+            }
+            return result;
+
         }
 
         public void Dispose()
@@ -63,5 +94,6 @@ namespace Unit.ProjetoCodeFirst.Clinica.Infrastructure.Repositories
             _db.Dispose();
             GC.SuppressFinalize(this);
         }
+
     }
 }
